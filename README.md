@@ -1,2 +1,2 @@
 # neural-networks-to-address-this-multiclass-classification-problem
-neural networks to address this multiclass classification problem
+neural networks to address this multiclass classification problem where we are given a dataset  which  has  a  number  of  features  and  a  single  target. We need to check the dataset is balanced and then classify the target class. The problem required to randomly under sample the classed which cause the imbalance of the data set. The imbalance class was cut 40% to make it reasonable for the dataset to be used for multiclass-classification.
